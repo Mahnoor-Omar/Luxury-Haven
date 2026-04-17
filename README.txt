@@ -16,3 +16,12 @@
 Your website is now fully connected to the backend and database!
 
 Make sure your database is accessible and SQL Server is running.
+
+4. Contributors
+
+This project was developed as a group effort by:
+
+- Maham Rizwan  
+- Mubashra Noor  
+- Mahnoor Omar  
+- Pariza Nadir  
